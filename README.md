@@ -1,9 +1,9 @@
 # Decentralized-Voting-System-using-Ethereum-Blockchain
 
-##Introduction
+#Introduction
 This project aims to develop a decentralized voting system using Ethereum blockchain technology. The system provides a secure, transparent, and tamper-proof platform for conducting elections.
 
-Features
+#Features
 Decentralized voting system using Ethereum blockchain
 Secure and transparent voting process
 Tamper-proof platform
