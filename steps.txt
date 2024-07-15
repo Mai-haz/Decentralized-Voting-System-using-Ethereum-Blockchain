@@ -1,0 +1,19 @@
+Open a terminal at the project directory.
+
+Open Ganache and its development workspace.
+
+Open a terminal in the project's root directory and run the following commands:
+truffle console
+Inside the Truffle console, compile the smart contracts:
+compile
+Bundle app.js with Browserify. Open a new terminal in your project's root directory and run:
+browserify ./src/js/app.js -o ./src/dist/app.bundle.js
+node index.js
+Navigate to the Database_API folder in another terminal:
+
+python -m uvicorn main:app --reload --host localhost
+
+In a new terminal, migrate the Truffle contract to the local blockchain:
+truffle migrate
+http://localhost:8080/
+
