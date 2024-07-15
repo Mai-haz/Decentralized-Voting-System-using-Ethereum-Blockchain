@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+node_modules
+build
+package-lock.json
+=======
 # If you prefer the allow list template instead of the deny list, see community template:
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #
@@ -20,3 +25,4 @@
 # Go workspace file
 go.work
 go.work.sum
+>>>>>>> fdce399b889b9f2d945011ea4c23a5cc8286447f
